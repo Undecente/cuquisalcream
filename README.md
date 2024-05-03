@@ -8,9 +8,9 @@ BARBERSHOP APP es una aplicacion dedicada a la proyeccion en la que se busca imp
 
 Vamos a crear una aplicacion con los metodos anteriormente realizados en los que el barbero pueda registrarse en la app y presentar su trabajo a los clientes, ademas de ser puntuado por calidad; el cliente podra ver una extensa variedad de barberos que esten registrados en la app para facilitar la forma en que busca una cita ya que no tendra que llamarlo ni ir personalmente a buscarlo sino que este agendara una cita en un cupo libre que tenga el barbero que esta solicitando, esto ademas de que el cliente debera agregar alguna informacion personal y foto para facilitar al barbero la forma en que realiza su trabajo y poder comprobar la identidad de dicho cliente; el abrbero en su poerfil podra mostrar sus años en el trabajo y datos importantes para poder vender bien su servicio a el publico.
 
-##OBJETIVOS
+## OBJETIVOS
 
-*Facilitar 
-*Crear
-*Vender
-*Desarrollar
+* Facilitar 
+* Crear
+* Vender
+* Desarrollar
